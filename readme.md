@@ -2,7 +2,7 @@
 
 Here is a list of potential third party APIs **WARNING: APIs are all subject to change without notice**
 
--[Open AI API](https://openai.com/blog/openai-api) - text-to-speech, text-to-image etc
+- [Open AI API](https://openai.com/blog/openai-api) - text-to-speech, text-to-image etc
 
 - [API Ninjas](https://api-ninjas.com/) - This api has over 70 subjects from which you can consume data. You could use more than one endpoint to build a more robust application or also use this in combination with your JSON server
 
